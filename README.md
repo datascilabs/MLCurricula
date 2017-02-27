@@ -6,7 +6,7 @@ Following is the best resources to learn the basic of Machine Learning.
 ## Machine Learning Concept
 ### MOOC:
 + [Machine Learning By Andrew Ng](https://www.coursera.org/learn/machine-learning)
-+ [Element of Statistical Learning](https://www.youtube.com/channel/UC4OWDcPB1peiBXDfCSZ3h-w)
++ [Element of Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/)
 + [Learning From Data by Yasser S](http://work.caltech.edu/telecourse.html)
 
 ### Article
